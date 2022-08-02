@@ -1,7 +1,7 @@
 <?php 
 
 if ( ! defined( 'ABSPATH' ) ) {
-	exit; // если попал сюда по ссылке нахуй иди окда?
+	exit;
 }
 
 class MoneyboxPanelDataPicker{
